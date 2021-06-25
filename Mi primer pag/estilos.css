@@ -1,0 +1,23 @@
+#titulo{
+    top: 0;
+    right: 0;
+    background-color: plum;
+    font-family: cursive;
+}
+.parrafoblanco{
+    color: blueviolet;
+}
+#fotoPrincipal{
+    width: 500px;
+    border-radius: 30px;
+}
+.recuadro{
+    border: 3px blueviolet dotted;
+    border-left: navajowhite;
+    border-right: navajowhite;
+}
+.sombra{
+    -webkit-box-shadow: 2px 2px 5px black
+    ;
+    -moz-box-shadow: 2px 2px 5px black;
+}
